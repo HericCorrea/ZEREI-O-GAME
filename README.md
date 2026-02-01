@@ -18,6 +18,12 @@ O **Zerei o Game** é uma ferramenta de alta performance desenvolvida em **.NET 
 * **Base Técnica:** Este projeto utiliza como base o aplicativo **XAU**, originalmente criado pelo desenvolvedor **Draff**.
 * **Evolução:** Com base nessa referência, desenvolvemos o **Zerei o Game** como uma versão aprimorada, focada em evolução constante, melhorias de interface e performance otimizada.
 
+## Aviso sobre o Windows Defender:**
+Por ser um software independente e não possuir uma assinatura digital paga, o Windows SmartScreen pode exibir o alerta "O Windows protegeu o computador".
+* Este é um comportamento padrão para executáveis novos de código aberto.
+* O aplicativo é seguro e focado exclusivamente em funções de Xbox.
+* Para abrir, clique em **"Mais informações"** e selecione **"Executar assim mesmo"**.
+  
 ## Funcionalidades Principais
 * **Simulação de Gameplay**: Capacidade de simular que você está jogando qualquer título, mesmo sem possuir o jogo.
 * **Desbloqueio de Conquistas**: Permite o desbloqueio direto de conquistas, mesmo em jogos nunca jogados anteriormente.
@@ -36,3 +42,12 @@ O **Zerei o Game** é uma ferramenta de alta performance desenvolvida em **.NET 
 1. Acesse a aba **Releases** no topo deste repositório.
 2. Baixe o arquivo executável `Zerei_o_Game.exe`.
 3. **Importante**: Execute sempre como **Administrador** para garantir o funcionamento das APIs de rede e segurança.
+  <p align="center">
+  <a href="https://github.com/HericCorrea/ZEREI-O-GAME/releases">
+    <img src="https://img.shields.io/badge/DOWNLOAD-ZEREI%20O%20GAME-green?style=for-the-badge&logo=github" alt="Download">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Clique no botão acima para ser redirecionado à área de downloads oficial.</sub>
+</p>
